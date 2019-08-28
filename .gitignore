@@ -1,0 +1,7 @@
+data/features/*
+models/*
+__pycache__/
+*.zip
+log/*
+tmp/
+

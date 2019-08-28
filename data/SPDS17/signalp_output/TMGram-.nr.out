@@ -1,0 +1,713 @@
+# SignalP-4.1 gram- predictions
+>B8GXB6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    62       0.162
+  max. Y    50       0.125
+  max. S    47       0.236
+  mean S     1-49    0.089
+       D     1-49    0.112   0.510   NO
+Name=B8GXB6	SP='NO' D=0.112 D-cutoff=0.510 Networks=SignalP-TM
+>B8GX61 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.114
+  max. Y    28       0.120
+  max. S    31       0.166
+  mean S     1-27    0.106
+       D     1-27    0.115   0.510   NO
+Name=B8GX61	SP='NO' D=0.115 D-cutoff=0.510 Networks=SignalP-TM
+>B8GWS7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.106
+  max. Y    11       0.116
+  max. S     1       0.166
+  mean S     1-10    0.137
+       D     1-10    0.124   0.510   NO
+Name=B8GWS7	SP='NO' D=0.124 D-cutoff=0.510 Networks=SignalP-TM
+>F0T4D1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    38       0.113
+  max. Y    11       0.157
+  max. S     4       0.303
+  mean S     1-10    0.254
+       D     1-10    0.193   0.510   NO
+Name=F0T4D1	SP='NO' D=0.193 D-cutoff=0.510 Networks=SignalP-TM
+>A0A086F3E3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.136
+  max. Y    35       0.105
+  max. S    61       0.120
+  mean S     1-34    0.076
+       D     1-34    0.095   0.510   NO
+Name=A0A086F3E3	SP='NO' D=0.095 D-cutoff=0.510 Networks=SignalP-TM
+>E0SIS2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.129
+  max. Y    55       0.193
+  max. S    47       0.448
+  mean S     1-54    0.250
+       D     1-54    0.214   0.510   NO
+Name=E0SIS2	SP='NO' D=0.214 D-cutoff=0.510 Networks=SignalP-TM
+>D5T166 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.132
+  max. Y    11       0.169
+  max. S     5       0.386
+  mean S     1-10    0.296
+       D     1-10    0.216   0.510   NO
+Name=D5T166	SP='NO' D=0.216 D-cutoff=0.510 Networks=SignalP-TM
+>A6X7E7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.139
+  max. Y    22       0.175
+  max. S    19       0.386
+  mean S     1-21    0.217
+       D     1-21    0.191   0.510   NO
+Name=A6X7E7	SP='NO' D=0.191 D-cutoff=0.510 Networks=SignalP-TM
+>E6WMH4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.105
+  max. Y    23       0.113
+  max. S    15       0.157
+  mean S     1-22    0.106
+       D     1-22    0.110   0.510   NO
+Name=E6WMH4	SP='NO' D=0.110 D-cutoff=0.510 Networks=SignalP-TM
+>D0KEK2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.209
+  max. Y    19       0.190
+  max. S    39       0.416
+  mean S     1-18    0.194
+       D     1-18    0.192   0.510   NO
+Name=D0KEK2	SP='NO' D=0.192 D-cutoff=0.510 Networks=SignalP-TM
+>Q188Z4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.108
+  max. Y    33       0.105
+  max. S    27       0.145
+  mean S     1-32    0.076
+       D     1-32    0.095   0.510   NO
+Name=Q188Z4	SP='NO' D=0.095 D-cutoff=0.510 Networks=SignalP-TM
+>G4V4G3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.124
+  max. Y    11       0.142
+  max. S     6       0.268
+  mean S     1-10    0.220
+       D     1-10    0.171   0.510   NO
+Name=G4V4G3	SP='NO' D=0.171 D-cutoff=0.510 Networks=SignalP-TM
+>Q14SY0 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.267
+  max. Y    42       0.236
+  max. S    29       0.367
+  mean S     1-41    0.241
+       D     1-41    0.238   0.510   NO
+Name=Q14SY0	SP='NO' D=0.238 D-cutoff=0.510 Networks=SignalP-TM
+>Q55721 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.116
+  max. Y    12       0.134
+  max. S     1       0.235
+  mean S     1-11    0.178
+       D     1-11    0.150   0.510   NO
+Name=Q55721	SP='NO' D=0.150 D-cutoff=0.510 Networks=SignalP-TM
+>P73726 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.208
+  max. Y    26       0.157
+  max. S     4       0.214
+  mean S     1-25    0.141
+       D     1-25    0.151   0.510   NO
+Name=P73726	SP='NO' D=0.151 D-cutoff=0.510 Networks=SignalP-TM
+>Q55736 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.114
+  max. Y    11       0.101
+  max. S     6       0.128
+  mean S     1-10    0.109
+       D     1-10    0.104   0.510   NO
+Name=Q55736	SP='NO' D=0.104 D-cutoff=0.510 Networks=SignalP-TM
+>P74653 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.135
+  max. Y    11       0.122
+  max. S     3       0.195
+  mean S     1-10    0.157
+       D     1-10    0.135   0.510   NO
+Name=P74653	SP='NO' D=0.135 D-cutoff=0.510 Networks=SignalP-TM
+>D0VWR4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.110
+  max. Y    11       0.131
+  max. S     1       0.234
+  mean S     1-10    0.174
+       D     1-10    0.147   0.510   NO
+Name=D0VWR4	SP='NO' D=0.147 D-cutoff=0.510 Networks=SignalP-TM
+>Q9X1N5 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    19       0.299
+  max. Y    19       0.230
+  max. S    14       0.220
+  mean S     1-18    0.161
+       D     1-18    0.205   0.510   NO
+Name=Q9X1N5	SP='NO' D=0.205 D-cutoff=0.510 Networks=SignalP-TM
+>Q9X2I1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.106
+  max. Y    26       0.108
+  max. S    20       0.133
+  mean S     1-25    0.100
+       D     1-25    0.105   0.510   NO
+Name=Q9X2I1	SP='NO' D=0.105 D-cutoff=0.510 Networks=SignalP-TM
+>Q9X1G6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    18       0.161
+  max. Y    18       0.170
+  max. S     1       0.322
+  mean S     1-17    0.211
+       D     1-17    0.185   0.510   NO
+Name=Q9X1G6	SP='NO' D=0.185 D-cutoff=0.510 Networks=SignalP-TM
+>F9RBV9 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.118
+  max. Y    14       0.110
+  max. S    24       0.212
+  mean S     1-13    0.125
+       D     1-13    0.116   0.510   NO
+Name=F9RBV9	SP='NO' D=0.116 D-cutoff=0.510 Networks=SignalP-TM
+>Q6F7T9 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.188
+  max. Y    21       0.163
+  max. S    20       0.311
+  mean S     1-20    0.123
+       D     1-20    0.148   0.510   NO
+Name=Q6F7T9	SP='NO' D=0.148 D-cutoff=0.510 Networks=SignalP-TM
+>Q6FDF5 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    49       0.129
+  max. Y    49       0.117
+  max. S    64       0.144
+  mean S     1-48    0.085
+       D     1-48    0.106   0.510   NO
+Name=Q6FDF5	SP='NO' D=0.106 D-cutoff=0.510 Networks=SignalP-TM
+>Q6FFS6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.158
+  max. Y    36       0.133
+  max. S    12       0.232
+  mean S     1-35    0.141
+       D     1-35    0.136   0.510   NO
+Name=Q6FFS6	SP='NO' D=0.136 D-cutoff=0.510 Networks=SignalP-TM
+>Q9AGF2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    64       0.126
+  max. Y    64       0.123
+  max. S    53       0.180
+  mean S     1-63    0.113
+       D     1-63    0.119   0.510   NO
+Name=Q9AGF2	SP='NO' D=0.119 D-cutoff=0.510 Networks=SignalP-TM
+>Q0ZAI3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.139
+  max. Y    20       0.128
+  max. S     1       0.213
+  mean S     1-19    0.121
+       D     1-19    0.125   0.510   NO
+Name=Q0ZAI3	SP='NO' D=0.125 D-cutoff=0.510 Networks=SignalP-TM
+>Q0ZAH7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    47       0.158
+  max. Y    47       0.129
+  max. S    46       0.188
+  mean S     1-46    0.090
+       D     1-46    0.115   0.510   NO
+Name=Q0ZAH7	SP='NO' D=0.115 D-cutoff=0.510 Networks=SignalP-TM
+>D3RPC1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.150
+  max. Y    26       0.174
+  max. S    12       0.268
+  mean S     1-25    0.176
+       D     1-25    0.174   0.510   NO
+Name=D3RPC1	SP='NO' D=0.174 D-cutoff=0.510 Networks=SignalP-TM
+>E1WTB4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.104
+  max. Y    11       0.100
+  max. S     3       0.125
+  mean S     1-10    0.104
+       D     1-10    0.102   0.510   NO
+Name=E1WTB4	SP='NO' D=0.102 D-cutoff=0.510 Networks=SignalP-TM
+>Q0P9C8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.206
+  max. Y    11       0.131
+  max. S     2       0.214
+  mean S     1-10    0.178
+       D     1-10    0.148   0.510   NO
+Name=Q0P9C8	SP='NO' D=0.148 D-cutoff=0.510 Networks=SignalP-TM
+>Q0P9D4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.124
+  max. Y    11       0.134
+  max. S     1       0.237
+  mean S     1-10    0.175
+       D     1-10    0.149   0.510   NO
+Name=Q0P9D4	SP='NO' D=0.149 D-cutoff=0.510 Networks=SignalP-TM
+>C4PLJ5 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.138
+  max. Y    12       0.116
+  max. S     7       0.161
+  mean S     1-11    0.138
+       D     1-11    0.124   0.510   NO
+Name=C4PLJ5	SP='NO' D=0.124 D-cutoff=0.510 Networks=SignalP-TM
+>B0B9M4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    68       0.128
+  max. Y    52       0.151
+  max. S     1       0.276
+  mean S     1-51    0.164
+       D     1-51    0.156   0.510   NO
+Name=B0B9M4	SP='NO' D=0.156 D-cutoff=0.510 Networks=SignalP-TM
+>B0B9M3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.133
+  max. Y    16       0.115
+  max. S    14       0.158
+  mean S     1-15    0.132
+       D     1-15    0.121   0.510   NO
+Name=B0B9M3	SP='NO' D=0.121 D-cutoff=0.510 Networks=SignalP-TM
+>B0B8F4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    44       0.173
+  max. Y    11       0.216
+  max. S     7       0.530
+  mean S     1-10    0.485
+       D     1-10    0.316   0.510   NO
+Name=B0B8F4	SP='NO' D=0.316 D-cutoff=0.510 Networks=SignalP-TM
+>B0B9M5 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.147
+  max. Y    65       0.131
+  max. S    57       0.178
+  mean S     1-64    0.103
+       D     1-64    0.120   0.510   NO
+Name=B0B9M5	SP='NO' D=0.120 D-cutoff=0.510 Networks=SignalP-TM
+>D6YXE8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.138
+  max. Y    21       0.140
+  max. S     1       0.242
+  mean S     1-20    0.160
+       D     1-20    0.147   0.510   NO
+Name=D6YXE8	SP='NO' D=0.147 D-cutoff=0.510 Networks=SignalP-TM
+>Q8KBX2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    66       0.237
+  max. Y    22       0.365
+  max. S    12       0.819
+  mean S     1-21    0.683
+       D     1-21    0.483   0.510   NO
+Name=Q8KBX2	SP='NO' D=0.483 D-cutoff=0.510 Networks=SignalP-TM
+>A9WG67 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    69       0.103
+  max. Y    14       0.128
+  max. S     6       0.196
+  mean S     1-13    0.166
+       D     1-13    0.142   0.510   NO
+Name=A9WG67	SP='NO' D=0.142 D-cutoff=0.510 Networks=SignalP-TM
+>D2TN57 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.139
+  max. Y    11       0.140
+  max. S     3       0.282
+  mean S     1-10    0.195
+       D     1-10    0.160   0.510   NO
+Name=D2TN57	SP='NO' D=0.160 D-cutoff=0.510 Networks=SignalP-TM
+>P0DOV3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.137
+  max. Y    17       0.121
+  max. S     9       0.187
+  mean S     1-16    0.146
+       D     1-16    0.130   0.510   NO
+Name=P0DOV3	SP='NO' D=0.130 D-cutoff=0.510 Networks=SignalP-TM
+>Q72E86 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    50       0.118
+  max. Y    50       0.104
+  max. S     6       0.117
+  mean S     1-49    0.081
+       D     1-49    0.096   0.510   NO
+Name=Q72E86	SP='NO' D=0.096 D-cutoff=0.510 Networks=SignalP-TM
+>C5BH44 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.114
+  max. Y    17       0.161
+  max. S    14       0.313
+  mean S     1-16    0.249
+       D     1-16    0.194   0.510   NO
+Name=C5BH44	SP='NO' D=0.194 D-cutoff=0.510 Networks=SignalP-TM
+>B2VGW0 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.129
+  max. Y    11       0.106
+  max. S     1       0.154
+  mean S     1-10    0.112
+       D     1-10    0.109   0.510   NO
+Name=B2VGW0	SP='NO' D=0.109 D-cutoff=0.510 Networks=SignalP-TM
+>Q3YL95 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    20       0.124
+  max. Y    11       0.139
+  max. S     3       0.245
+  mean S     1-10    0.199
+       D     1-10    0.161   0.510   NO
+Name=Q3YL95	SP='NO' D=0.161 D-cutoff=0.510 Networks=SignalP-TM
+>D3QY10 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.112
+  max. Y    69       0.123
+  max. S    64       0.191
+  mean S     1-68    0.101
+       D     1-68    0.115   0.510   NO
+Name=D3QY10	SP='NO' D=0.115 D-cutoff=0.510 Networks=SignalP-TM
+>A0A0H2VAP9 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.118
+  max. Y    46       0.117
+  max. S    42       0.190
+  mean S     1-45    0.092
+       D     1-45    0.108   0.510   NO
+Name=A0A0H2VAP9	SP='NO' D=0.108 D-cutoff=0.510 Networks=SignalP-TM
+>G3MTW7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.098
+  max. Y    11       0.137
+  max. S     1       0.263
+  mean S     1-10    0.183
+       D     1-10    0.154   0.510   NO
+Name=G3MTW7	SP='NO' D=0.154 D-cutoff=0.510 Networks=SignalP-TM
+>P0DMV3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.641
+  max. Y    21       0.470
+  max. S     6       0.448
+  mean S     1-20    0.366
+       D     1-20    0.432   0.510   NO
+Name=P0DMV3	SP='NO' D=0.432 D-cutoff=0.510 Networks=SignalP-TM
+>A5FMG4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.341
+  max. Y    46       0.179
+  max. S     5       0.217
+  mean S     1-45    0.109
+       D     1-45    0.153   0.510   NO
+Name=A5FMG4	SP='NO' D=0.153 D-cutoff=0.510 Networks=SignalP-TM
+>Q5NGW7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.113
+  max. Y    11       0.121
+  max. S     3       0.220
+  mean S     1-10    0.149
+       D     1-10    0.132   0.510   NO
+Name=Q5NGW7	SP='NO' D=0.132 D-cutoff=0.510 Networks=SignalP-TM
+>Q748D0 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.118
+  max. Y    25       0.106
+  max. S    46       0.130
+  mean S     1-24    0.079
+       D     1-24    0.096   0.510   NO
+Name=Q748D0	SP='NO' D=0.096 D-cutoff=0.510 Networks=SignalP-TM
+>E1VBT7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.751
+  max. Y    37       0.599
+  max. S    34       0.710
+  mean S     1-36    0.295
+       D     1-36    0.487   0.510   NO
+Name=E1VBT7	SP='NO' D=0.487 D-cutoff=0.510 Networks=SignalP-TM
+>D0KWI6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    57       0.105
+  max. Y    67       0.098
+  max. S    56       0.137
+  mean S     1-66    0.062
+       D     1-66    0.085   0.510   NO
+Name=D0KWI6	SP='NO' D=0.085 D-cutoff=0.510 Networks=SignalP-TM
+>Q9ZN40 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.115
+  max. Y    18       0.168
+  max. S     8       0.328
+  mean S     1-17    0.281
+       D     1-17    0.210   0.510   NO
+Name=Q9ZN40	SP='NO' D=0.210 D-cutoff=0.510 Networks=SignalP-TM
+>C7NB69 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    21       0.139
+  max. Y    21       0.216
+  max. S     4       0.526
+  mean S     1-20    0.389
+       D     1-20    0.280   0.510   NO
+Name=C7NB69	SP='NO' D=0.280 D-cutoff=0.510 Networks=SignalP-TM
+>Q607G3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.195
+  max. Y    42       0.137
+  max. S    39       0.167
+  mean S     1-41    0.090
+       D     1-41    0.120   0.510   NO
+Name=Q607G3	SP='NO' D=0.120 D-cutoff=0.510 Networks=SignalP-TM
+>G4SW86 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.107
+  max. Y    18       0.097
+  max. S    11       0.117
+  mean S     1-17    0.085
+       D     1-17    0.093   0.510   NO
+Name=G4SW86	SP='NO' D=0.093 D-cutoff=0.510 Networks=SignalP-TM
+>B2RI48 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.102
+  max. Y    11       0.096
+  max. S    66       0.126
+  mean S     1-10    0.095
+       D     1-10    0.095   0.510   NO
+Name=B2RI48	SP='NO' D=0.095 D-cutoff=0.510 Networks=SignalP-TM
+>G3XD94 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.109
+  max. Y    39       0.118
+  max. S    34       0.187
+  mean S     1-38    0.108
+       D     1-38    0.114   0.510   NO
+Name=G3XD94	SP='NO' D=0.114 D-cutoff=0.510 Networks=SignalP-TM
+>Q9HUH5 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.305
+  max. Y    26       0.221
+  max. S     5       0.298
+  mean S     1-25    0.208
+       D     1-25    0.216   0.510   NO
+Name=Q9HUH5	SP='NO' D=0.216 D-cutoff=0.510 Networks=SignalP-TM
+>Q9HZX3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.179
+  max. Y    11       0.127
+  max. S     1       0.234
+  mean S     1-10    0.158
+       D     1-10    0.139   0.510   NO
+Name=Q9HZX3	SP='NO' D=0.139 D-cutoff=0.510 Networks=SignalP-TM
+>O06836 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.118
+  max. Y    11       0.126
+  max. S     4       0.222
+  mean S     1-10    0.172
+       D     1-10    0.143   0.510   NO
+Name=O06836	SP='NO' D=0.143 D-cutoff=0.510 Networks=SignalP-TM
+>O52216 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    39       0.156
+  max. Y    11       0.124
+  max. S     5       0.188
+  mean S     1-10    0.164
+       D     1-10    0.138   0.510   NO
+Name=O52216	SP='NO' D=0.138 D-cutoff=0.510 Networks=SignalP-TM
+>Q87WD2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.377
+  max. Y    40       0.269
+  max. S    39       0.386
+  mean S     1-39    0.132
+       D     1-39    0.219   0.510   NO
+Name=Q87WD2	SP='NO' D=0.219 D-cutoff=0.510 Networks=SignalP-TM
+>Q2KA78 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    36       0.148
+  max. Y    16       0.147
+  max. S     8       0.281
+  mean S     1-15    0.203
+       D     1-15    0.168   0.510   NO
+Name=Q2KA78	SP='NO' D=0.168 D-cutoff=0.510 Networks=SignalP-TM
+>Q1MJ96 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.114
+  max. Y    11       0.140
+  max. S     2       0.263
+  mean S     1-10    0.197
+       D     1-10    0.161   0.510   NO
+Name=Q1MJ96	SP='NO' D=0.161 D-cutoff=0.510 Networks=SignalP-TM
+>D5ARG8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    55       0.142
+  max. Y    11       0.119
+  max. S     1       0.191
+  mean S     1-10    0.139
+       D     1-10    0.126   0.510   NO
+Name=D5ARG8	SP='NO' D=0.126 D-cutoff=0.510 Networks=SignalP-TM
+>D5AUZ7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.172
+  max. Y    35       0.179
+  max. S    31       0.240
+  mean S     1-34    0.153
+       D     1-34    0.169   0.510   NO
+Name=D5AUZ7	SP='NO' D=0.169 D-cutoff=0.510 Networks=SignalP-TM
+>D5AV16 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.119
+  max. Y    11       0.115
+  max. S     1       0.181
+  mean S     1-10    0.130
+       D     1-10    0.121   0.510   NO
+Name=D5AV16	SP='NO' D=0.121 D-cutoff=0.510 Networks=SignalP-TM
+>D5AQY8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    69       0.151
+  max. Y    69       0.145
+  max. S     2       0.274
+  mean S     1-68    0.127
+       D     1-68    0.138   0.510   NO
+Name=D5AQY8	SP='NO' D=0.138 D-cutoff=0.510 Networks=SignalP-TM
+>Q70AN6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    37       0.102
+  max. Y    14       0.128
+  max. S     8       0.201
+  mean S     1-13    0.165
+       D     1-13    0.142   0.510   NO
+Name=Q70AN6	SP='NO' D=0.142 D-cutoff=0.510 Networks=SignalP-TM
+>Q7CPI8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.159
+  max. Y    11       0.119
+  max. S     1       0.216
+  mean S     1-10    0.139
+       D     1-10    0.127   0.510   NO
+Name=Q7CPI8	SP='NO' D=0.127 D-cutoff=0.510 Networks=SignalP-TM
+>Q7CPI7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.106
+  max. Y    70       0.094
+  max. S    60       0.106
+  mean S     1-69    0.059
+       D     1-69    0.081   0.510   NO
+Name=Q7CPI7	SP='NO' D=0.081 D-cutoff=0.510 Networks=SignalP-TM
+>Q9Z4S7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    51       0.145
+  max. Y    51       0.134
+  max. S    45       0.165
+  mean S     1-50    0.081
+       D     1-50    0.114   0.510   NO
+Name=Q9Z4S7	SP='NO' D=0.114 D-cutoff=0.510 Networks=SignalP-TM
+>D0ZXP9 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.108
+  max. Y    11       0.121
+  max. S     3       0.197
+  mean S     1-10    0.145
+       D     1-10    0.130   0.510   NO
+Name=D0ZXP9	SP='NO' D=0.130 D-cutoff=0.510 Networks=SignalP-TM
+>D0ZK39 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.163
+  max. Y    22       0.186
+  max. S     2       0.312
+  mean S     1-21    0.221
+       D     1-21    0.199   0.510   NO
+Name=D0ZK39	SP='NO' D=0.199 D-cutoff=0.510 Networks=SignalP-TM
+>D0ZLQ7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    60       0.118
+  max. Y    11       0.127
+  max. S     6       0.197
+  mean S     1-10    0.168
+       D     1-10    0.142   0.510   NO
+Name=D0ZLQ7	SP='NO' D=0.142 D-cutoff=0.510 Networks=SignalP-TM
+>Q8ZKL0 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.264
+  max. Y    23       0.319
+  max. S    13       0.450
+  mean S     1-22    0.361
+       D     1-22    0.334   0.510   NO
+Name=Q8ZKL0	SP='NO' D=0.334 D-cutoff=0.510 Networks=SignalP-TM
+>Q9KSG1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.175
+  max. Y    18       0.149
+  max. S    10       0.239
+  mean S     1-17    0.172
+       D     1-17    0.157   0.510   NO
+Name=Q9KSG1	SP='NO' D=0.157 D-cutoff=0.510 Networks=SignalP-TM
+>Q9KQS1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    42       0.293
+  max. Y    42       0.202
+  max. S    35       0.180
+  mean S     1-41    0.087
+       D     1-41    0.160   0.510   NO
+Name=Q9KQS1	SP='NO' D=0.160 D-cutoff=0.510 Networks=SignalP-TM
+>A5F4U3 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    46       0.201
+  max. Y    46       0.155
+  max. S    45       0.184
+  mean S     1-45    0.089
+       D     1-45    0.131   0.510   NO
+Name=A5F4U3	SP='NO' D=0.131 D-cutoff=0.510 Networks=SignalP-TM
+>Q9KVK7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.179
+  max. Y    20       0.190
+  max. S    15       0.332
+  mean S     1-19    0.265
+       D     1-19    0.218   0.510   NO
+Name=Q9KVK7	SP='NO' D=0.218 D-cutoff=0.510 Networks=SignalP-TM
+>A0A0H3AJF5 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.403
+  max. Y    31       0.244
+  max. S    65       0.255
+  mean S     1-30    0.167
+       D     1-30    0.216   0.510   NO
+Name=A0A0H3AJF5	SP='NO' D=0.216 D-cutoff=0.510 Networks=SignalP-TM
+>A5F5X0 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    43       0.101
+  max. Y    52       0.107
+  max. S    47       0.160
+  mean S     1-51    0.075
+       D     1-51    0.095   0.510   NO
+Name=A5F5X0	SP='NO' D=0.095 D-cutoff=0.510 Networks=SignalP-TM
+>P0DKS0 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.118
+  max. Y    28       0.118
+  max. S     1       0.161
+  mean S     1-27    0.104
+       D     1-27    0.113   0.510   NO
+Name=P0DKS0	SP='NO' D=0.113 D-cutoff=0.510 Networks=SignalP-TM
+>Q74RU7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    40       0.119
+  max. Y    11       0.111
+  max. S     2       0.224
+  mean S     1-10    0.111
+       D     1-10    0.111   0.510   NO
+Name=Q74RU7	SP='NO' D=0.111 D-cutoff=0.510 Networks=SignalP-TM
+>P0DM79 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    32       0.129
+  max. Y    27       0.183
+  max. S    25       0.418
+  mean S     1-26    0.218
+       D     1-26    0.196   0.510   NO
+Name=P0DM79	SP='NO' D=0.196 D-cutoff=0.510 Networks=SignalP-TM

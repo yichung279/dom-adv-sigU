@@ -1,0 +1,185 @@
+# SignalP-4.1 gram- predictions
+>A0A0A1H8I4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.857
+  max. Y    23       0.911
+  max. S    21       0.988
+  mean S     1-22    0.955
+       D     1-22    0.932   0.570   YES
+Name=A0A0A1H8I4	SP='YES' Cleavage site between pos. 22 and 23: LLA-AQ D=0.932 D-cutoff=0.570 Networks=SignalP-noTM
+>C6XZB6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.139
+  max. Y    26       0.174
+  max. S    12       0.278
+  mean S     1-25    0.215
+       D     1-25    0.189   0.510   NO
+Name=C6XZB6	SP='NO' D=0.189 D-cutoff=0.510 Networks=SignalP-TM
+>D3RVD4 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    28       0.717
+  max. Y    28       0.560
+  max. S    25       0.645
+  mean S     1-27    0.349
+       D     1-27    0.482   0.510   NO
+Name=D3RVD4	SP='NO' D=0.482 D-cutoff=0.510 Networks=SignalP-TM
+>E1XUJ2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.628
+  max. Y    27       0.620
+  max. S     1       0.931
+  mean S     1-26    0.761
+       D     1-26    0.686   0.570   YES
+Name=E1XUJ2	SP='YES' Cleavage site between pos. 26 and 27: PRA-AE D=0.686 D-cutoff=0.570 Networks=SignalP-noTM
+>G1UBD1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    33       0.576
+  max. Y    33       0.584
+  max. S    17       0.962
+  mean S     1-32    0.770
+       D     1-32    0.672   0.570   YES
+Name=G1UBD1	SP='YES' Cleavage site between pos. 32 and 33: ASA-HG D=0.672 D-cutoff=0.570 Networks=SignalP-noTM
+>G3XDA8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.326
+  max. Y    25       0.543
+  max. S    11       0.988
+  mean S     1-24    0.932
+       D     1-24    0.726   0.570   YES
+Name=G3XDA8	SP='YES' Cleavage site between pos. 24 and 25: AVA-AI D=0.726 D-cutoff=0.570 Networks=SignalP-noTM
+>I0J1I6 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.871
+  max. Y    24       0.907
+  max. S    13       0.963
+  mean S     1-23    0.926
+       D     1-23    0.916   0.570   YES
+Name=I0J1I6	SP='YES' Cleavage site between pos. 23 and 24: AFA-AP D=0.916 D-cutoff=0.570 Networks=SignalP-noTM
+>O33434 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.777
+  max. Y    27       0.834
+  max. S    14       0.951
+  mean S     1-26    0.903
+       D     1-26    0.866   0.570   YES
+Name=O33434	SP='YES' Cleavage site between pos. 26 and 27: AFA-DP D=0.866 D-cutoff=0.570 Networks=SignalP-noTM
+>P95470 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    31       0.273
+  max. Y    31       0.475
+  max. S    28       0.894
+  mean S     1-30    0.718
+       D     1-30    0.590   0.570   YES
+Name=P95470	SP='YES' Cleavage site between pos. 30 and 31: ACG-AK D=0.590 D-cutoff=0.570 Networks=SignalP-noTM
+>Q05JY7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.294
+  max. Y    26       0.464
+  max. S    15       0.929
+  mean S     1-25    0.822
+       D     1-25    0.632   0.570   YES
+Name=Q05JY7	SP='YES' Cleavage site between pos. 25 and 26: VKA-SQ D=0.632 D-cutoff=0.570 Networks=SignalP-noTM
+>Q47910 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    22       0.722
+  max. Y    22       0.693
+  max. S     2       0.908
+  mean S     1-21    0.726
+       D     1-21    0.708   0.570   YES
+Name=Q47910	SP='YES' Cleavage site between pos. 21 and 22: VLA-SE D=0.708 D-cutoff=0.570 Networks=SignalP-noTM
+>Q52VH2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    30       0.262
+  max. Y    27       0.379
+  max. S    22       0.757
+  mean S     1-26    0.554
+       D     1-26    0.444   0.510   NO
+Name=Q52VH2	SP='NO' D=0.444 D-cutoff=0.510 Networks=SignalP-TM
+>Q588Z2 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    35       0.677
+  max. Y    35       0.747
+  max. S    16       0.973
+  mean S     1-34    0.874
+       D     1-34    0.807   0.570   YES
+Name=Q588Z2	SP='YES' Cleavage site between pos. 34 and 35: AQA-KS D=0.807 D-cutoff=0.570 Networks=SignalP-noTM
+>Q59289 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.599
+  max. Y    25       0.714
+  max. S    23       0.930
+  mean S     1-24    0.856
+       D     1-24    0.780   0.570   YES
+Name=Q59289	SP='YES' Cleavage site between pos. 24 and 25: ILA-QS D=0.780 D-cutoff=0.570 Networks=SignalP-noTM
+>Q72EC8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    29       0.884
+  max. Y    29       0.922
+  max. S    16       0.986
+  mean S     1-28    0.956
+       D     1-28    0.938   0.570   YES
+Name=Q72EC8	SP='YES' Cleavage site between pos. 28 and 29: AFA-GH D=0.938 D-cutoff=0.570 Networks=SignalP-noTM
+>Q7MSJ8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    34       0.619
+  max. Y    34       0.728
+  max. S    33       0.943
+  mean S     1-33    0.566
+       D     1-33    0.652   0.570   YES
+Name=Q7MSJ8	SP='YES' Cleavage site between pos. 33 and 34: SIA-AT D=0.652 D-cutoff=0.570 Networks=SignalP-noTM
+>Q8RS40 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.725
+  max. Y    23       0.795
+  max. S    19       0.939
+  mean S     1-22    0.892
+       D     1-22    0.841   0.570   YES
+Name=Q8RS40	SP='YES' Cleavage site between pos. 22 and 23: AHA-LD D=0.841 D-cutoff=0.570 Networks=SignalP-noTM
+>Q9F437 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    23       0.452
+  max. Y    23       0.647
+  max. S    19       0.975
+  mean S     1-22    0.926
+       D     1-22    0.778   0.570   YES
+Name=Q9F437	SP='YES' Cleavage site between pos. 22 and 23: AIG-QP D=0.778 D-cutoff=0.570 Networks=SignalP-noTM
+>Q9HVD1 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    24       0.774
+  max. Y    24       0.833
+  max. S     9       0.980
+  mean S     1-23    0.923
+       D     1-23    0.876   0.570   YES
+Name=Q9HVD1	SP='YES' Cleavage site between pos. 23 and 24: AQA-AD D=0.876 D-cutoff=0.570 Networks=SignalP-noTM
+>Q9HZQ8 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.743
+  max. Y    25       0.834
+  max. S    20       0.967
+  mean S     1-24    0.916
+       D     1-24    0.873   0.570   YES
+Name=Q9HZQ8	SP='YES' Cleavage site between pos. 24 and 25: SLA-AP D=0.873 D-cutoff=0.570 Networks=SignalP-noTM
+>Q9I589 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    26       0.788
+  max. Y    26       0.838
+  max. S    14       0.962
+  mean S     1-25    0.914
+       D     1-25    0.874   0.570   YES
+Name=Q9I589	SP='YES' Cleavage site between pos. 25 and 26: AHA-HG D=0.874 D-cutoff=0.570 Networks=SignalP-noTM
+>Q9LAP7 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    27       0.439
+  max. Y    27       0.556
+  max. S     9       0.913
+  mean S     1-26    0.797
+       D     1-26    0.669   0.570   YES
+Name=Q9LAP7	SP='YES' Cleavage site between pos. 26 and 27: AQA-ET D=0.669 D-cutoff=0.570 Networks=SignalP-noTM
+>V5YM14 
+# Measure  Position  Value    Cutoff   signal peptide?
+  max. C    25       0.855
+  max. Y    25       0.855
+  max. S    17       0.936
+  mean S     1-24    0.871
+       D     1-24    0.863   0.570   YES
+Name=V5YM14	SP='YES' Cleavage site between pos. 24 and 25: AQA-GE D=0.863 D-cutoff=0.570 Networks=SignalP-noTM
