@@ -72,13 +72,13 @@ if __name__ == '__main__':
             else:
                 one_hot_label = [0, 0, 1]
 
-            obj.append((features, i, one_hot_label, 'Test'))
+            obj.append((features, i, 'Test', one_hot_label))
 
  
     test_data = np.array(obj, dtype=[('features', np.int32, (sequence_length, )), 
                                      ('label', np.int32),
+                                     ('meta', np.unicode_, 10),
                                      ('one_hot_label', np.int32, (3, )),
-                                     ('meta', np.unicode_, 10)
                                      ])
     
     print('test features: ', test_data['features'].shape)
