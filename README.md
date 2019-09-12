@@ -49,7 +49,7 @@ $ ./build_eval_features.py euk
 ```
 Testing features saves in `data/features/` as `test.npy`.
 
-```
+
 
 ### Build 'good' and 'bad' features using initial features
 Ratio : the ratio of good and bad features. 
